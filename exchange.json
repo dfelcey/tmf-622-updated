@@ -1,5 +1,6 @@
 {
   "dependencies": [],
   "name": "TMF 622 Updated API",
-  "main": "TMF622_Product_Ordering_Management_API_v4.0.0_swagger.json"
+  "main": "TMF622_Product_Ordering_Management_API_v4.0.0_swagger.json",
+  "groupId": "b43e4e64-3308-45f1-9599-bc9bc78957e6"
 }
