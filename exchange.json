@@ -1,4 +1,5 @@
 {
   "dependencies": [],
-  "name": "TMF 622 Updated API"
+  "name": "TMF 622 Updated API",
+  "main": "TMF622_Product_Ordering_Management_API_v4.0.0_swagger.json"
 }
